@@ -126,9 +126,4 @@ This will return:
 Data Scientist | ML Engineer
 [LinkedIn](https://www.linkedin.com/in/mohammad-mousavi-895763113/) | [GitHub](https://github.com/kmousavi91)
 
----
-
-## 📄 License
-
-MIT License
 
